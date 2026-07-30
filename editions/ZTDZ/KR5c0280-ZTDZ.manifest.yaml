@@ -23,14 +23,14 @@ entity_encoding:
 assets:
   parts:
   - {seq: 0, filename: KR5c0280_000-ZTDZ.yaml, hash: 'sha256:64a389b5623cfe3c5630a10a219bda9b548b63f0a30ea7ce9ba9034ccb889f04'}
-  - {seq: 1, filename: KR5c0280_001-ZTDZ.yaml, hash: 'sha256:b41754af7e1bf5b24edaabb6a91ffddf21953f75391aaed27b6ddd8b85a6364a'}
+  - {seq: 1, filename: KR5c0280_001-ZTDZ.yaml, hash: 'sha256:2b5ae5fa023e1b0244fc0cf1040070e325e6f930a897f3d3624a90bdc74ee3f5'}
   - {seq: 2, filename: KR5c0280_002-ZTDZ.yaml, hash: 'sha256:863ec55e49d4d0c7edf2d39fb7198231dca53f03904368db02b95fe9c53aeeef'}
-  - {seq: 3, filename: KR5c0280_003-ZTDZ.yaml, hash: 'sha256:a4005db0b858b595dd70e6ce2457562599ac1597dc0e6eea3efc7df4dfcddbb8'}
+  - {seq: 3, filename: KR5c0280_003-ZTDZ.yaml, hash: 'sha256:44130c27082b51e7809713ec141d0bf183aaf80b88b48a6b9c4e5ca47299129e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR5c0280_000-ZTDZ.markers.yaml, hash: 'sha256:e3ec79aa22abd90852a423e125b57473a8fd76b29a5fdab374b6361c3c2bba2a'}
-  - {seq: 1, role: markers, filename: assets/KR5c0280_001-ZTDZ.markers.yaml, hash: 'sha256:15376b00ae140f93e6fa5695136dfba23aad692bc3665512f1c189c8d2b02508'}
+  - {seq: 1, role: markers, filename: assets/KR5c0280_001-ZTDZ.markers.yaml, hash: 'sha256:a177e5c8a0b23666dc9b29de796256efaf2ccc3b2abeaface760c413a0029b5e'}
   - {seq: 2, role: markers, filename: assets/KR5c0280_002-ZTDZ.markers.yaml, hash: 'sha256:4c486e00e2449d351f9bbc32e33167fb1b672ea802edda2ec51cf7d5199239c2'}
-  - {seq: 3, role: markers, filename: assets/KR5c0280_003-ZTDZ.markers.yaml, hash: 'sha256:384f5fefca11fa7cc9be7a6bea03e96cc9f983f99b6e693166ce7e0f374c01d4'}
+  - {seq: 3, role: markers, filename: assets/KR5c0280_003-ZTDZ.markers.yaml, hash: 'sha256:550c47d6347ac6e3c309a622cf3f2b40a1eea55f815d2464027a6d09815f80a7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -47,8 +47,8 @@ table_of_contents:
     marker_id: KR5c0280_SJB_001-180776c
     span:
     - body
-    - 0
-    - 3361
+    - 446
+    - 3807
   label: juan 001
   type: section
   level: 1
@@ -67,9 +67,9 @@ table_of_contents:
     marker_id: KR5c0280_SJB_003-180783a
     span:
     - body
-    - 0
-    - 2865
+    - 892
+    - 3757
   label: juan 003
   type: section
   level: 1
-hash: sha256:cfe3fff9560d212e7c2bdcd92ad5b46abb57f02693c399fe889db121c28dac70
+hash: sha256:82dbb85976c512eef526933b0af5db671cdcc6585bb4c1fd2d77cbaeb50cb8e0
